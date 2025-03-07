@@ -7,5 +7,10 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="aula89"/>
+	<classpathentry kind="src" path="aula90"/>
+	<classpathentry kind="src" path="aula91_exercicios"/>
+	<classpathentry kind="src" path="aula95"/>
+	<classpathentry kind="src" path="aula96"/>
+	<classpathentry kind="src" path="aula97"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
