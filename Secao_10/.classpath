@@ -12,5 +12,9 @@
 	<classpathentry kind="src" path="aula95"/>
 	<classpathentry kind="src" path="aula96"/>
 	<classpathentry kind="src" path="aula97"/>
+	<classpathentry kind="src" path="aula99"/>
+	<classpathentry kind="src" path="aula100"/>
+	<classpathentry kind="src" path="aula103"/>
+	<classpathentry kind="src" path="aula104"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
